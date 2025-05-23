@@ -1780,7 +1780,7 @@ msgstr "L'URL officielle pour ce guide d'implémentation est :"
 # IP_INTRO
 #: IP_INTRO
 msgid "This {0} includes IP covered under the following statements."
-msgstr "Ce • cet {0} inclut la propriété intellectuelle couverte par les déclarations suivantes."
+msgstr "Ce/cette {0} inclut la propriété intellectuelle couverte par les déclarations suivantes."
 
 # IP_NONE
 #: IP_NONE
